@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">RosterApp</string>
+
+    <string-array name="rooster_array">
+        <item>Kraken II</item>
+        <item>Fire Phoenix II</item>
+        <item>Devastator II</item>
+        <item>Trickster II</item>
+        <item>Kraken I</item>
+        <item>Fire Phoenix I</item>
+        <item>Devastator I</item>
+        <item>Trickster I</item>
+        <item>Wind Lord</item>
+        <item>Black Dragon</item>
+        <item>Destructive Colossus</item>
+        <item>Ancient Terror</item>
+        <item>Corax II</item>
+        <item>Royal lion II</item>
+        <item>Royal lion I</item>
+        <item>Corax I</item>
+        <item>Battle griffin VII</item>
+        <item>Josephine II</item>
+        <item>Whitemane II</item>
+        <item>Smiter II</item>
+        <item>Smiter I</item>
+        <item>Whitemane I</item>
+        <item>Purifier II</item>
+        <item>Duelist II</item>
+        <item>Punisher II</item>
+        <item>Legitimist II</item>
+        <item>Lion rider VII</item>
+        <item>Mounted knight VII</item>
+        <item>Legitimist I</item>
+        <item>Duelist I</item>
+        <item>Punisher I</item>
+        <item>Purifier I</item>
+        <item>Heavy knight VII</item>
+        <item>Deadshot VII</item>
+        <item>Vulture VII</item>
+        <item>Heavy halberdier VII</item>
+        <item>Heavy arbalester VII</item>
+    </string-array>
+
+
+    <string-array name="rooster_descriptions">
+        <item>An upgraded sea titan with reinforced tentacles and bioluminescent armor.</item>
+        <item>A majestic bird of flame capable of widespread aerial incineration.</item>
+        <item>A heavy siege construct designed to shatter city walls with kinetic energy.</item>
+        <item>A master of illusion that confuses enemies with clones and mirrors.</item>
+        <item>The original terror of the deep, known for dragging ships into the abyss.</item>
+        <item>The standard avian flame-spirit, loyal and devastating in combat.</item>
+        <item>A basic heavy-armor unit built for high-impact frontal assaults.</item>
+        <item>An agile rogue unit that uses smoke and speed to evade capture.</item>
+        <item>An elemental being that controls high-altitude gale forces and storms.</item>
+        <item>A dark-scaled drake that breathes shadow flames and resists magic.</item>
+        <item>An ancient stone giant that leaves craters with every massive footstep.</item>
+        <item>An eldritch monstrosity from the void that causes fear in all who look at it.</item>
+        <item>A scout bird of prey enhanced with steel talons and keen vision.</item>
+        <item>The pride of the kingdom, wearing gilded armor and leading the charge.</item>
+        <item>A noble beast of the plains, faster than any standard cavalry mount.</item>
+        <item>A standard messenger crow trained for battlefield reconnaissance.</item>
+        <item>The highest tier of griffin, capable of carrying multiple armored riders.</item>
+        <item>A legendary hero unit specializing in defensive tactical formations.</item>
+        <item>A massive white-furred lion known for its incredible raw strength.</item>
+        <item>A holy warrior that deals extra damage to undead and demonic foes.</item>
+        <item>A young squire of the Smiter order, learning the ways of holy combat.</item>
+        <item>A smaller, agile breed of the Whitemane lineage used for flanking.</item>
+        <item>A mage-hunter equipped with tools to dispel and silence enemy spells.</item>
+        <item>A master swordsman who excels in one-on-one combat scenarios.</item>
+        <item>A brutal enforcer that specializes in breaking enemy morale.</item>
+        <item>A staunch defender of tradition, boasting the highest defense in the roster.</item>
+        <item>A swift cavalry unit that uses lions to navigate difficult terrain.</item>
+        <item>The backbone of the royal guard, deadly with both lance and shield.</item>
+        <item>A basic infantryman sworn to protect the royal bloodline.</item>
+        <item>A student of the blade practicing basic parrying and riposte.</item>
+        <item>A standard guard responsible for maintaining order in the ranks.</item>
+        <item>A light support unit that uses basic magic to cleanse debuffs.</item>
+        <item>A tank unit encased in full plate armor, nearly impervious to arrows.</item>
+        <item>An elite marksman who never misses a shot, even from extreme range.</item>
+        <item>A scavenger unit that thrives on looting and battlefield utility.</item>
+        <item>A long-reach infantryman effective against charging cavalry.</item>
+        <item>A heavy ranged unit firing bolts that can pierce through multiple enemies.</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
